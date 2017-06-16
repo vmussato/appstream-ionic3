@@ -12,7 +12,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
   selector: 'page-intro',
   templateUrl: 'intro.html',
 })
-export class IntroPage {
+export class Intro {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
