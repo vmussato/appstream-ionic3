@@ -29,5 +29,5 @@ module.exports = {
   copyFontawesomeCss: {
     src: ['{{ROOT}}/node_modules/font-awesome/css/font-awesome.min.css'],
     dest: '{{WWW}}/assets/css'
-  },
+  }
 }
